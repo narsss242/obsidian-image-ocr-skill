@@ -1,0 +1,4 @@
+interface:
+  display_name: Obsidian 图片转文字
+  short_description: 在Obsidian笔记原位置整理图片文字，保留原图与来源并标出识别不确定内容
+  default_prompt: 请用 $obsidian-image-ocr-skill 处理我提供的材料，并按本次要求交付。
